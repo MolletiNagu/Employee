@@ -1,0 +1,13 @@
+com\wissentech\model\package-info.class
+com\wissentech\repository\StudentRepository.class
+com\wissentech\repository\EmployeeRepository.class
+com\wissentech\service\StudentService.class
+com\wissentech\model\Student.class
+com\wissentech\service\EmployeeService.class
+com\wissentech\controller\StudentController.class
+com\wissentech\controller\EmployeeContoller.class
+com\wissentech\repository\package-info.class
+com\wissentech\service\package-info.class
+com\wissentech\PrjApplication.class
+com\wissentech\controller\package-info.class
+com\wissentech\model\Employee.class
